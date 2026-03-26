@@ -1,0 +1,14 @@
+{
+  "profile": {
+    "name": "Christopher Thistlewood",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in urna a mi mattis fermentum at non nisi. [cite: 21]",
+    "avatarUrl": "https://i.pravatar.cc/300?u=christopher",
+    "avatarFallbackInitials": "CT"
+  },
+  "theme": {
+    "primaryColor": "#f0f0f0",
+    "cardBackgroundColor": "#ffffff",
+    "textPrimaryColor": "#000000",
+    "textSecondaryColor": "#444444"
+  }
+}
