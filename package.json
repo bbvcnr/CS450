@@ -1,0 +1,11 @@
+{
+  "name": "library-borrowing",
+  "version": "1.0.0",
+  "description": "Library book borrowing system",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
